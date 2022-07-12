@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Legs_Normal.tif
+Assets/Test Scenes/Level 2/OcclusionCullingData.asset
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Body_Normal.tif
+Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Arms_Normal.tif
+Assets/Assets/PolygonWestern/Textures/PolygonWestern_Texture_Metallic.tga
